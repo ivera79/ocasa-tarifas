@@ -1,3 +1,5 @@
+[tarfias activas.sql](https://github.com/user-attachments/files/26789058/tarfias.activas.sql)
+[Uploading tarfias activas.sql…]()
 # OCASA | Consulta de Tarifas Activas
 
 ## 🔗 Link de acceso
